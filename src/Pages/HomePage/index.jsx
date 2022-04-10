@@ -13,7 +13,7 @@ function HomePage() {
             <Link to="/bootcut">Bootcut Jeans</Link>
           </li>
           <li>
-            {/* To tell the link where to navigate, we add the URL to the too prop.  */}
+            {/* To tell the link where to navigate, we add the URL to the to prop.  */}
             <Link to="/skinny">Skinny Jeans</Link>
           </li>
           <li>
