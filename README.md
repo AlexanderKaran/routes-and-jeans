@@ -1,7 +1,7 @@
 # Jeans and Routes
 ## An example project for my blog post intro into URLs and React Router
 
-To can you read the [full blog here]().
+To can you read the [full blog here](https://blog.alexanderkaran.com/urls-routes-and-react-router).
 ## How to start and view the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
