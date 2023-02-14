@@ -4,9 +4,9 @@
 To can you read the [full blog here](https://blog.alexanderkaran.com/urls-routes-and-react-router).
 ## How to start and view the project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Vite](https://vitejs.dev).
 
 In the project directory, you run:
-### `npm start`
+### `npm start dev`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.

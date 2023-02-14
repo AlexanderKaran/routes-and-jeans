@@ -1,4 +1,3 @@
-import React from "react";
 import { useParams } from "react-router-dom";
 
 function JeansPage() {
@@ -10,7 +9,7 @@ function JeansPage() {
 
   return (
     <div>
-      <h2>{params.jeans}</h2>
+      <h1>{params.jeans}</h1>
     </div>
   );
 }
